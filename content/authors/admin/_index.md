@@ -5,9 +5,6 @@ title: Guangyao Zhai
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: gy.zhai96@gmail.com
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Zhejiang University
@@ -53,6 +50,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: media/resume.pdf
+
+# Role/position/tagline
+role: gy.zhai96@gmail.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "gy.zhai96@gmail.com"
