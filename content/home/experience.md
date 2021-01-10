@@ -26,8 +26,8 @@ experience:
     company: Noah's Ark Lab, Huawei Technologies Co. Ltd.
     company_url: 'https://www.noahlab.com.hk/#/home'
     location: Shanghai, China
-    date_start: '2020-04'
-    date_end: '2020-07'
+    date_start: '2020-04-01'
+    date_end: '2020-07-31'
     description: Design a 3D Multi-Object Tracking framework.
 
         
