@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'gy.zhai96@gmail.com'
+  link: 'mailto:gy.zhai96@gmail.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://www.ymxlzgy.com
@@ -52,7 +52,7 @@ social:
 #   link: media/resume.pdf
 
 # Role/position/tagline
-role: gy.zhai96@gmail.com
+role: Master student in robot vision
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "gy.zhai96@gmail.com"
