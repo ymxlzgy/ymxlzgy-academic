@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Guangyao Zhai
-subtitle: (翟光耀)
 
 # Is this the primary user of the site?
 superuser: true
