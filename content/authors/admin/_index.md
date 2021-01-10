@@ -6,7 +6,7 @@ title: Guangyao Zhai
 superuser: true
 
 # Role/position/tagline
-role: Master student in robotic vision
+role: gy.zhai96@gmail.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
