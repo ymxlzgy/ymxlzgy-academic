@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a M.D. candidate supervised by Prof. Yong Liu at {{< staticref "https://april.zju.edu.cn/" "newtab" >}} APRIL Lab{{< /staticref >}}, {{< staticref "http://www.zju.edu.cn/" "newtab" >}} Zhejiang University{{< /staticref >}}. My research interest lies in robotics perception, including Geometry Learning and Multi-Object Tracking. I had also studied SLAM in earlier days. Before the master's study, I obtained my BEng at {{< staticref "https://www.nwpu.edu.cn" "newtab" >}} Northwestern Polytechnical University{{< /staticref >}}. I want to continue dedicating myself in the intelligent robot research field in the future, as we do need robots to make our life better.
+I am a M.D. candidate supervised by {{< staticref "https://scholar.google.com/citations?hl=zh-CN&user=qYcgBbEAAAAJ&view_op=list_works&sortby=pubdate" "newtab" >}} Prof. Yong Liu{{< /staticref >}} at {{< staticref "https://april.zju.edu.cn/" "newtab" >}} APRIL Lab{{< /staticref >}}, {{< staticref "http://www.zju.edu.cn/" "newtab" >}} Zhejiang University{{< /staticref >}}. My research interest lies in robotics perception, including Geometry Learning and Multi-Object Tracking. I had also studied SLAM in earlier days. Before the master's study, I obtained my BEng at {{< staticref "https://www.nwpu.edu.cn" "newtab" >}} Northwestern Polytechnical University{{< /staticref >}}. I want to continue dedicating myself in the intelligent robot research field in the future, as we do need robots to make our life better.
 
 In my free time, I enjoy hiking and travelling. After all, we are all travellers in life.
 
