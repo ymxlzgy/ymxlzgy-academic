@@ -25,6 +25,10 @@ feature:
   icon_pack: custom
   name: Python
 - description: 75%
+  icon: matlab
+  icon_pack: custom
+  name: MATLAB
+- description: 75%
   icon: ros
   icon_pack: custom
   name: ROS
@@ -32,10 +36,7 @@ feature:
   icon: pytorch
   icon_pack: custom
   name: Pytorch
-- description: 75%
-  icon: matlab
-  icon_pack: custom
-  name: MATLAB
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
