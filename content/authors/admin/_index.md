@@ -66,7 +66,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a M.D. candidate supervised by Prof. Yong Liu at {{< staticref "https://april.zju.edu.cn/" "newtab" >}} APRIL Lab{{< /staticref >}}, {{< staticref "http://www.zju.edu.cn/" "newtab" >}} Zhejiang University{{< /staticref >}}. My research interest lies in robotics perception, including Geometry Learning and Multi-Object Tracking. I had also studied SLAM in earlier days. Before the master's study, I obtained my BEng at {{< staticref "https://www.nwpu.edu.cn/ " "newtab" >}} Northwestern Polytechnical University{{< /staticref >}}.
+I am a M.D. candidate supervised by Prof. Yong Liu at {{< staticref "https://april.zju.edu.cn/" "newtab" >}} APRIL Lab{{< /staticref >}}, {{< staticref "http://www.zju.edu.cn/" "newtab" >}} Zhejiang University{{< /staticref >}}. My research interest lies in robotics perception, including Geometry Learning and Multi-Object Tracking. I had also studied SLAM in earlier days. Before the master's study, I obtained my BEng at {{< staticref "https://www.nwpu.edu.cn" "newtab" >}} Northwestern Polytechnical University{{< /staticref >}}.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
