@@ -22,12 +22,12 @@ feature:
   name: C++
 - description: 70%
   icon: python
-  icon_pack: far
+  icon_pack: fab
   name: Python
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: fa-robot
+  icon_pack: far
+  name: ROS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
