@@ -22,7 +22,7 @@ feature:
   name: C++
 - description: 70%
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
 - description: 10%
   icon: fa-robot
