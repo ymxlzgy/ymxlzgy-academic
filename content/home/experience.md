@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -22,24 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Research Intern
+    company: Noah's Ark Lab, Huawei Technologies Co. Ltd.
+    company_url: 'https://www.noahlab.com.hk/#/home'
+    location: Shanghai, China
+    date_start: '2020-04'
+    date_end: '2020-07'
+    description: Design a 3D Multi-Object Tracking framework.
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Collaborator Student
+    company: DeepRobotics Co. Ltd.
+    company_url: 'http://www.deeprobotics.cn/'
+    location: Hangzhou, China
+    date_start: '2019-05-01'
+    date_end: '2020-05-01'
+    description: Develop perception systems on legged robots.
 ---
