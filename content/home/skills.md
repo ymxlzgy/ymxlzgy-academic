@@ -24,10 +24,10 @@ feature:
   icon: python
   icon_pack: custom
   name: Python
-- description: 10%
-  icon: fa-robot
-  icon_pack: far
-  name: ROS
+- description: 70%
+  icon: ros
+  icon_pack: custom
+  name: Robot Operating System
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
