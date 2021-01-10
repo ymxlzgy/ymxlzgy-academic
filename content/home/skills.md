@@ -27,7 +27,11 @@ feature:
 - description: 70%
   icon: ros
   icon_pack: custom
-  name: Robot Operating System
+  name: ROS
+- description: 70%
+  icon: pytorch
+  icon_pack: custom
+  name: Pytorch
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
