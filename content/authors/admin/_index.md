@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guangyao Zhai
+title: Guangyao Zhai(翟光耀)
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,22 +18,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Robot Vision
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MPhil in Control Science and Engineering
+    institution: Zhejiang University
+    year: 2021
+  - course: BEng in Automation
+    institution: Northwestern Polytechnical University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,7 +47,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ymxlzgy
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -70,7 +66,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a M.D. candidate of Robotic Vision at the Zhejiang University. My research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a M.D. candidate supervised by Prof. Yong Liu at APRIL Lab, Zhejiang University. My research interest lies in robotics perception, including Geometry Learning and Multi-Object Tracking. I had also studied SLAM in earlier days. Before the master's study, I obtain my BEng at Northwestern Polytechnical University.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
