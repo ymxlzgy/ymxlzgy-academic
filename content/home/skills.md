@@ -22,8 +22,8 @@ feature:
   name: C++
 - description: 70%
   icon: python
-  icon_pack: fas
-  name: Statistics
+  icon_pack: far
+  name: Python
 - description: 10%
   icon: camera-retro
   icon_pack: fas
