@@ -1,6 +1,6 @@
 ---
 # Display name
-title: |
+title: |+
   Guangyao Zhai
   (翟光耀)
 
