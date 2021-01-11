@@ -1,8 +1,6 @@
 ---
 # Display name
-title: "\
-  Guangyao Zhai\
-  \ (翟光耀)"
+title: Guangyao Zhai
 
 # Is this the primary user of the site?
 superuser: true
@@ -54,7 +52,10 @@ social:
 #   link: media/resume.pdf
 
 # Role/position/tagline
-role: Master student in robot vision
+role: |
+  <p style="color: white">
+    (翟光耀)
+  </p>
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "gy.zhai96@gmail.com"
