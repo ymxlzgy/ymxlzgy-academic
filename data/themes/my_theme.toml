@@ -5,13 +5,7 @@ name = "my_theme"
 is_light = false
 
 # Primary
-primary = "rgb(255, 0, 60)"
-
-# Menu
-menu_primary = "#222930"
-menu_text = "#000"
-menu_text_active = "rgb(255, 0, 60)"
-menu_title = "#000"
+primary = "0373F2"
 
 [dark]
   # Menu
