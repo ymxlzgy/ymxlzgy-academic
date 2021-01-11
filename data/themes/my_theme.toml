@@ -8,19 +8,19 @@ is_light = false
 primary = "rgb(255, 0, 60)"
 
 # Menu
-menu_primary = "#fcee0a"
+menu_primary = "#222930"
 menu_text = "#000"
 menu_text_active = "rgb(255, 0, 60)"
 menu_title = "#000"
 
 [dark]
   # Menu
-  menu_primary = "#fcee0a"
-  menu_text = "#000"
-  menu_text_active = "#000"
-  menu_title = "#000"
+  menu_primary = "#222930"
+  menu_text = "#fff"
+  menu_text_active = "#2981FF"
+  menu_title = "#fff"
 
   # Backgrounds
-  background = "#000"
-  home_section_odd = "#000"
-  home_section_even = "#000"
+  background = "#bbdefb"
+  home_section_odd = "#rgb(255, 255, 255)"
+  home_section_even = "#rgb(247, 247, 247)"
