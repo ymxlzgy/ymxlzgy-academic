@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Guangyao Zhai\r\n(翟光耀)"
+title: "Guangyao Zhai"
 
 # Is this the primary user of the site?
 superuser: true
