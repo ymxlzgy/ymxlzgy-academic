@@ -1,6 +1,8 @@
 ---
 # Display name
-title: "Guangyao Zhai"
+title: |2-
+  Guangyao Zhai
+  (翟光耀)
 
 # Is this the primary user of the site?
 superuser: true
