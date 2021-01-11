@@ -1,8 +1,8 @@
 ---
 # Display name
-title: |+
-  Guangyao Zhai
-  (翟光耀)
+title: "\
+  Guangyao Zhai\
+  \ (翟光耀)"
 
 # Is this the primary user of the site?
 superuser: true
