@@ -7,8 +7,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Zhejiang University
-  url: http://www.zju.edu.cn/
+- name: Master student in robot vision
 
 
 # Interests to show in About widget
