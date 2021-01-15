@@ -9,30 +9,25 @@
   weight = 10
   
 [[main]]
-  name = "Experience"
+  name = "Achievements"
   url = "experience/"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Research"
   url = "research/"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Projects"
   url = "projects/"
-  weight = 40
+  weight = 30
 
 
 [[main]]
   name = "Travel"
   url = "travel/"
   weight = 60
-
-[[main]]
-  name = "Awards"  # Title of the link.
-  url = "awards/"  # Widget Page folder name.
-  weight = 50  # Position of the link in the navigation bar.
 
 
 # Link to a PDF of your resume/CV from the menu.
