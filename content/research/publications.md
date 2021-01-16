@@ -24,9 +24,9 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: 'Deep Learning'
-    publication_type: 'Conference'
-    author: 'Guangyao Zhai'
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -34,9 +34,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](../publication/).
 {{% /callout %}}
