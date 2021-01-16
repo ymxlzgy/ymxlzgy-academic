@@ -7,7 +7,7 @@ title: "Semantic Graph Based Place Recognition for 3D Point Clouds"
 authors:
 - Xin Kong
 - Xuemeng Yang
-- Guangyao Zhai
+- admin
 - Yong Liu
 - et al
 

@@ -6,9 +6,10 @@ title: "Unsupervised Learning of Scene Flow EstimationFusing with Local Rigidity
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Liang Liu
-- Guangyao Zhai
+- admin
 - Wenlong Ye
 - Yong Liu
+
 
 date: "2019-07-01T00:00:00Z"
 doi: ""
