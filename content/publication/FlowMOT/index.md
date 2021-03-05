@@ -29,8 +29,8 @@ publishDate: "2020-12-25T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IEEE International Conference on Robotics and Automation 2021*
-publication_short: Submitted to *ICRA 2021*
+publication: Submitted to *IEEE Robotics and Automation Letters*
+publication_short: Submitted to *IEEE Robotics and Automation Letters*
 
 abstract:  Most end-to-end Multi-Object Tracking (MOT) methods face the problems of low accuracy and poor generalization ability. Although traditional filter-based methods can achieve better results, they are difficult to be endowed with optimal hyperparameters and often fail in varying scenarios. To alleviate these drawbacks, we propose a LiDAR-based 3D MOT framework named FlowMOT, which integrates point-wise motion information into the traditional matching algorithm, enhancing the robustness of the data association. We firstly utilize a scene flow estimation network to obtain implicit motion information between two adjacent frames and calculate the predicted detection for each old tracklet in the previous frame. Then we use Hungarian algorithm to generate optimal matching relations with the ID propagation strategy to finish the tracking task. Experiments on KITTI MOT dataset show that our approach outperforms recent end-to-end methods and achieves competitive performance with the state-of-the-art filter-based method. In addition, ours can work steadily in the various speed scenes where the filter-based methods may fail.
 
