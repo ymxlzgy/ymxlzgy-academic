@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: Robotics X Lab, Tencent
+    company_url: 'https://www.tencent.com/en-us/business/robotics.html'
+    location: Shenzhen, China
+    date_start: '2021-04-27'
+    date_end: '2021-08-31'
+    description: Robotics Perception.
+
+  - title: Research Intern
     company: Noah's Ark Lab, Huawei Technologies Co. Ltd.
     company_url: 'https://www.noahlab.com.hk/#/home'
     location: Shanghai, China
